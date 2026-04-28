@@ -20,6 +20,7 @@ function ejercicio2() {
   // Realizar JOIN y calcular total
   const reporteVentas = [];
   let ventasExcluidas = 0;
+  const excluidos = new Set();
 
   ventas.forEach(venta => {
     const producto = productosMap[venta.id_producto];
@@ -27,6 +28,7 @@ function ejercicio2() {
     // Si el producto no existe, excluir la venta
     if (!producto) {
       ventasExcluidas++;
+      excluidos.add(venta.id_producto)
       return;
     }
 
@@ -56,7 +58,7 @@ function ejercicio2() {
   // Reporte en consola
   console.log(`✓ Reporte generado: ${reporteVentas.length} ventas válidas`);
   if (ventasExcluidas > 0) {
-    console.log(`⚠ Ventas excluidas por producto no válido: ${ventasExcluidas}`);
+    console.log(`⚠ Ventas excluidas por producto no válido: ${ventasExcluidas} con ID: ${[...excluidos].join(", ")}`);
   }
 }
 
