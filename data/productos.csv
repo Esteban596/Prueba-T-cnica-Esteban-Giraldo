@@ -1,0 +1,13 @@
+id_producto,nombre,precio_unitario,categoria
+P001,Notebook Gamer,1200.00,Tecnología
+P002,Mouse Inalámbrico,45.00,Tecnología
+P003,Silla Ergonómica,320.00,Muebles
+P004,Monitor 24",280.00,Tecnología
+P005,Teclado Mecánico,95.00,Tecnología
+P006,Escritorio Ejecutivo,480.00,Muebles
+P007,Auriculares Bluetooth,75.00,Tecnología
+P008,Lámpara de Escritorio,35.00,Accesorios
+P009,Notebook Ultrabook,950.00,Tecnología
+P010,Silla Gamer,280.00,Muebles
+P011,Hub USB-C,55.00,Tecnología
+P012,Alfombra para Mouse,15.00,Accesorios

@@ -1,0 +1,26 @@
+{
+  "name": "prueba-ingreso-csv",
+  "version": "1.0.0",
+  "description": "Solución completa para procesar, validar, limpiar y analizar datos de ventas desde múltiples archivos CSV",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "ej1": "node src/ejercicio1.js",
+    "ej2": "node src/ejercicio2.js",
+    "ej3": "node src/ejercicio3.js",
+    "ej4": "node src/ejercicio4.js",
+    "ej5": "node src/ejercicio5.js"
+  },
+  "keywords": [
+    "csv",
+    "datos",
+    "validación",
+    "limpieza",
+    "análisis",
+    "node.js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

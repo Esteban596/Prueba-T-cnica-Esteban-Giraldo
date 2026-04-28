@@ -1,0 +1,7 @@
+id_sucursal,nombre_sucursal,ciudad,region
+S01,Centro,Buenos Aires,CABA
+S02,Norte,Córdoba,Centro
+S03,Sur,Rosario,Centro
+S04,Este,Mendoza,Cuyo
+S05,Oeste,San Juan,Cuyo
+S06,Patagonia,Neuquén,Patagonia

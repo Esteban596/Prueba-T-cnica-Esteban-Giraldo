@@ -1,0 +1,23 @@
+id_venta,nombre_producto,nombre_sucursal,ciudad,region,cantidad,precio_unitario,total,fecha
+21,Escritorio Ejecutivo,Centro,Buenos Aires,CABA,1,480.00,480.00,2024-01-25
+22,Mouse Inalámbrico,Este,Mendoza,Cuyo,4,45.00,180.00,2024-01-25
+19,Auriculares Bluetooth,Este,Mendoza,Cuyo,2,75.00,150.00,2024-01-24
+20,Notebook Ultrabook,Norte,Córdoba,Centro,1,950.00,950.00,2024-01-24
+17,Alfombra para Mouse,Centro,Buenos Aires,CABA,10,15.00,150.00,2024-01-23
+18,Teclado Mecánico,Sur,Rosario,Centro,3,95.00,285.00,2024-01-23
+15,Hub USB-C,Norte,Córdoba,Centro,5,55.00,275.00,2024-01-22
+16,Monitor 24",Este,Mendoza,Cuyo,1,280.00,280.00,2024-01-22
+13,Silla Gamer,Centro,Buenos Aires,CABA,3,280.00,840.00,2024-01-21
+14,Silla Ergonómica,Sur,Rosario,Centro,2,320.00,640.00,2024-01-21
+11,Notebook Ultrabook,Este,Mendoza,Cuyo,2,950.00,1900.00,2024-01-20
+12,Notebook Gamer,Norte,Córdoba,Centro,1,1200.00,1200.00,2024-01-20
+9,Mouse Inalámbrico,Norte,Córdoba,Centro,3,45.00,135.00,2024-01-19
+10,Lámpara de Escritorio,Sur,Rosario,Centro,4,35.00,140.00,2024-01-19
+7,Escritorio Ejecutivo,Este,Mendoza,Cuyo,1,480.00,480.00,2024-01-18
+8,Auriculares Bluetooth,Centro,Buenos Aires,CABA,6,75.00,450.00,2024-01-18
+5,Monitor 24",Norte,Córdoba,Centro,4,280.00,1120.00,2024-01-17
+6,Teclado Mecánico,Sur,Rosario,Centro,2,95.00,190.00,2024-01-17
+3,Notebook Gamer,Sur,Rosario,Centro,5,1200.00,6000.00,2024-01-16
+4,Mouse Inalámbrico,Centro,Buenos Aires,CABA,2,45.00,90.00,2024-01-16
+1,Notebook Gamer,Centro,Buenos Aires,CABA,3,1200.00,3600.00,2024-01-15
+2,Silla Ergonómica,Norte,Córdoba,Centro,1,320.00,320.00,2024-01-15
